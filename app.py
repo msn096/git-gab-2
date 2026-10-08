@@ -1,2 +1,2 @@
 def getDay():
- return f"today is best day"
+ return f"today is friday"
